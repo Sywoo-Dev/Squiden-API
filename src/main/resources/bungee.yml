@@ -1,0 +1,4 @@
+name: API
+author: Sywoo
+main: fr.sywoo.api.bungee.LionBungee
+version: 1.0.0
